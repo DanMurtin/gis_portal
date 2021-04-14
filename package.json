@@ -11,6 +11,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.6.0",
+    "cesium": "^1.80.0",
     "deck.gl": "^8.4.9",
     "mapbox-gl": "^2.1.1",
     "material-ui": "^0.20.2",

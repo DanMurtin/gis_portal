@@ -1,4 +1,5 @@
 import React from 'react';
+import Cesium from "cesium";
 import mapboxgl from 'mapbox-gl/dist/mapbox-gl-csp';
 
 // eslint-disable-next-line import/no-webpack-loader-syntax
